@@ -4,7 +4,7 @@ pip install pyTelegramBotAPI
 termux-setup-storage
 pkg install play-audio -y
 pkg install wget -y
-wget https://raw.githubusercontent.com/Rayy00418/murbugwa.py/refs/heads/main/murbugwa.py
+wget https://raw.githubusercontent.com/Rayy00418/murbugwa.py/refs/heads/main/murbug.py
 wget https://raw.githubusercontent.com/Rayy00418/murbugwa.py/refs/heads/main/start.sh
 chmod +x start.sh
 ./start.sh
