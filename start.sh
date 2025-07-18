@@ -15,5 +15,5 @@ LOGFILE="murbugwa.log"
 
 nohup python "$SCRIPT" > "$LOGFILE" 2>&1 &
 
-echo "✅ Script $SCRIPT sudah dijalankan di background!"
-echo "📄 Log bisa dicek di $LOGFILE"
+echo "✅ Murbug Loading Tunggu Sebentar😅"
+echo "📄 Hubungi t.me@MirayyLev Untuk Perbaikan"
